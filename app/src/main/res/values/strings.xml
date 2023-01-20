@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Проект Викторова и Грибанова</string>
+    <string name="current_time">Текущее время - %1$d:%2$d</string>
+    <string name="win_title">Ура, вы выиграли %1$d рублей</string>
+    <string name="fall_title">К сожалению вы не выиграли 😢</string>
+</resources>
